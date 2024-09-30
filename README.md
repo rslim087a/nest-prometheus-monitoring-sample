@@ -12,7 +12,7 @@ This project is a sample Nest.js application with Prometheus monitoring integrat
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/nest-prometheus-monitoring-sample.git
+   git clone https://github.com/rslim087a/nest-prometheus-monitoring-sample.git
    cd nest-prometheus-monitoring-sample
    ```
 
